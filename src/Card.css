@@ -1,0 +1,11 @@
+.div-card img{
+    width: 50%;
+    height: 100px;
+}
+.div-card h2,.div-card h3{
+    margin: 0;
+    text-transform: capitalize;
+}
+h2{
+    color: rgb(100, 64, 64);
+}
